@@ -1,29 +1,29 @@
-# CubiixLicense
 This is the License for Official/Unofficial Cubiix related projects
 
---Cubiix Liscense--
+--Cubiix License--
 
-Last Updated 2/26/2022
+Last Updated 3/2/2023
 
 License Agreement
 
-- Cubiix is a creative and collaborative platform for avatars and users of NEOS/neos/NEOSVR, by joining worlds, creations, or using avatars, you are agreeing to the terms listed below.
-	- You agree to not use Cubiix, official creations, or unofficial creations, for NFT related purposes.
-		- "NFT" refers to "Non-Fungible Tokens".
-		- "Related purposes" are including but not limited to creation, selling, and any thing involving "NFTs".
-		- This is also in reference to contract creation for the "NFT" process and processes associated with it.
-		- In the event this is found to have happened, your agreement is invalidated, and you are subject to being banned from all Official Cubiix related channels, worlds, and items.
-	- Crypto and real world currency are allowed for the purchasing of customized items and/or avatar content, however, the base of the avatar, logo, worlds, ect. are not to be sold for profit.
-	- It is understood that other content creators participate in the creation of Unofficial Cubiix assets, assets taken from these users is required to be properly attributed and are copyrighted by their respective owners.
-	- Cubiix as a whole, including official items, logos, fonts, ect. are copyrighted under the user "Duskitten" on the platform NEOS/neos/NEOSVR, discretion on usage of these is up to this person, and requires proper attribution if using for events or content.
-	- Creative content such as art, writings, animations, games, videos, and any other form of derivative media, are allowed under the stipulation that owners are attributed, including but not limited to creators of items/worlds/ect. 
-		- Items/Worlds/Ect. by such creators, are copyrighted to their respective owners, and are deemed "Unofficial".
-	- Original characters designed using Cubiix as a basis, belong to their respective owners, however, the Cubiix logo, and base design are property of the user "Duskitten" on the platform NEOS/neos/NEOSVR.
-	- The Cubiix Logo, is copyrighted by the user "Duskitten" on the platform NEOS/neos/NEOSVR.
-	- In the event of the usage of the Cubiix Logo:
-		- Distortion or editing of the logo is permitted as long as it is attributed properly to the owner
-		- In the event the logo is not edited, then no attribution is required, though it is appreciated.
-	- Erotic/NSFW content is frowned upon due to the nature of the character, however, anything that falls under this catagory is considered "Unofficial" and does not reflect the user "Duskitten" or the "Cubiix" brand.
-	- Official Cubiix avatars, worlds, items, and platform are free for public and private usage, given you abide by this license.
+Cubiix is an IP created by "Duskitten" and/or "Selkspace". These entities reserve the right to control what is and is not applicable to this license in terms of fan content, and official content.
+By participating within the Cubiix Project, by creative endeavors, discussion, and all applicable interactions, you agree to the following terms:
 
-If you do NOT agree to these terms, then please discontinue usage of Cubiix and Cubiix related content, such as avatars, items, worlds, or "unofficial" content from creators who use the platform.
+Crypto & NFT:
+  ■ Cubiix are not to be used within "the blockchain", or any other relevant "NFT" or "Crypto" projects.
+  ■ This is including, but not limited to: Selling of "NFTs", transfer of assets pertaining to Cubiix.
+  ■ We understand that crypto is its own economy of trade, as such, transfer of currency for the purchase of Cubiix assets is allowed.
+  ■ In the event these terms are breached, you waive your right to the community and participation of such community.
+
+Content:
+  ■ It is understood that any assets created, that are inspired by Cubiix and interactive with Cubiix, are owned by the individual creators who made them.
+  ■ Content produced that is not produced, or endorsed by the IP holders, are considered "Unofficial".
+  ■ "Unofficial" content is subject to its own moderation, and is not the responsibility of the IP holders.
+
+Official Content:
+  ■ The Cubiix Logo, avatar base, lore, and any other assets produced by the IP holders, is owned by such.
+  ■ The creation of content in tandem with these assets will be considered "Unofficial", unless otherwise endorsed.
+  ■ These assets are free for public use, but are still subject to terms at the discretion of the IP holders.
+
+■ If you do not agree to these terms, then please leave this site, and discontinue use of the Cubiix platform as a whole.
+■ Including but not limited to "Official" and "Unofficial" content alike. As we would like to protect the creators within our community.
