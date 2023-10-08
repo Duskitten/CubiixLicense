@@ -18,16 +18,16 @@ Crypto & NFT:
   
 
 Content:
-  - It is understood that any assets created, that are inspired by Cubiix and interactive with Cubiix, are owned by the individual creators who made them.\
-  - Content produced that is not produced, or endorsed by the IP holders, are considered "Unofficial".\
+  - It is understood that any assets created, that are inspired by Cubiix and interactive with Cubiix, are owned by the individual creators who made them.
+  - Content produced that is not produced, or endorsed by the IP holders, are considered "Unofficial".
   - "Unofficial" content is subject to its own moderation, and is not the responsibility of the IP holders.
   
 
 Official Content:
-  - The Cubiix Logo, avatar base, lore, and any other assets produced by the IP holders, is owned by such.\
-  - The creation of content in tandem with these assets will be considered "Unofficial", unless otherwise endorsed.\
+  - The Cubiix Logo, avatar base, lore, and any other assets produced by the IP holders, is owned by such.
+  - The creation of content in tandem with these assets will be considered "Unofficial", unless otherwise endorsed.
   - These assets are free for public use, but are still subject to terms at the discretion of the IP holders.
   
 
-If you do not agree to these terms, then please leave this site, and discontinue use of the Cubiix platform as a whole.\
+If you do not agree to these terms, then please leave this site, and discontinue use of the Cubiix platform as a whole.
 Including but not limited to "Official" and "Unofficial" content alike. As we would like to protect the creators within our community.
