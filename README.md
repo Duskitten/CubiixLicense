@@ -26,9 +26,10 @@ Content:
 
 Official Content:
   - The Cubiix Logo, avatar base, lore, and any other assets produced by the IP holders, is owned by such.
-  - The creation of content in tandem with these assets will be considered "Unofficial", unless otherwise endorsed.
+  - The creation of content in tandem with these assets will be considered "Unofficial", unless otherwise endorsed, endorsed assets are deemed "Official".
   - These assets are free for public use, but are still subject to terms at the discretion of the IP holders.
   - Any project that is a "split", "deviation" or "fork" of any deemed "Official" content must include this license within its repository, or a link to this license.
+  - Any assets deemed "Official" may not be used for AI training models, including, but not limited to, visual, and written generated content.
 
 
 If you do not agree to these terms, then please leave this site, and discontinue use of the Cubiix platform as a whole.
