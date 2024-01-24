@@ -2,7 +2,7 @@ This is the License for Official/Unofficial Cubiix related projects
 
 --Cubiix License--
 
-Last Updated 3/2/2023
+Last Updated 01/24/2024
 
 License Agreement
 
@@ -27,7 +27,8 @@ Official Content:
   - The Cubiix Logo, avatar base, lore, and any other assets produced by the IP holders, is owned by such.
   - The creation of content in tandem with these assets will be considered "Unofficial", unless otherwise endorsed.
   - These assets are free for public use, but are still subject to terms at the discretion of the IP holders.
-  
+
+Any project that is a "split", "deviation" or "fork" of any deemed "Official" content must include this license within its repository, or a link to this license.
 
 If you do not agree to these terms, then please leave this site, and discontinue use of the Cubiix platform as a whole.
 Including but not limited to "Official" and "Unofficial" content alike. As we would like to protect the creators within our community.
