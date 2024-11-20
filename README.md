@@ -1,36 +1,60 @@
-This is the License for Official/Unofficial Cubiix related projects
+Cubiix License:
 
---Cubiix License--
-
-Last Updated 01/24/2024
-
-License Agreement
-
-Cubiix is an IP created by "Duskitten" and/or "Selkspace". These entities reserve the right to control what is and is not applicable to this license in terms of fan content, and official content.
-
-By participating within the Cubiix Project, by creative endeavors, discussion, and all applicable interactions, you agree to the following terms:
-
-Crypto & NFT:
-  - Cubiix are not to be used within "the blockchain", or any other relevant "NFT" or "Crypto" projects.
-  - This is including, but not limited to: Selling of "NFTs", transfer of assets pertaining to Cubiix.
-  - We understand that crypto is its own economy of trade, as such, transfer of currency for the purchase of Cubiix assets is allowed.
-  - In the event these terms are breached, you waive your right to the community and participation of such community.
+Copyright (c) 2022 Duskitten, Selkspace
   
+Last Updated: Nov. 20 2024
 
-Content:
-  - It is understood that any assets created, that are inspired by Cubiix and interactive with Cubiix, are owned by the individual creators who made them.
-  - Content produced that is not produced, or endorsed by the IP holders, are considered "Unofficial".
-  - "Unofficial" content is subject to its own moderation, and is not the responsibility of the IP holders.
+Code and assets are free to be distributed, remixed, adapted, and built upon provided the following conditions are met:
 
+# 
+Attribution
+##
+Attribution to the copyright holders above must be applied in a visible and managable way.
+This can include but is not limited to:
+
+- Linking to a copy of this license in the descriptions of videos 
+- Copying of this license in the credits of a game
+- Copying of this license to source code of a game/application
+- Printing copyright notice on posters / images / books
+
+#
+Open Source 
+##
+In the event that code from this project is used in another project, the source code for that other project must also be publicly available.
+ 
+- "Use" includes copying, forking, merging or any other form of taking or adapting the code.
+
+A copy of this license must inserted into to the source code, be it in the README/LICENSE, or in a file in the associated folder code is taken from.
+
+#
+Inspiration
+##
+Art and assets under this license are free to have inspiration taken from them, provided they are not direct copies of the source material.
   
+- "Direct Copies" includes modifying pre-existing assets and re-modeling, or re-designing pre-existing concepts.
 
-Official Content:
-  - The Cubiix Logo, avatar base, lore, and any other assets produced by the IP holders, is owned by such.
-  - The creation of content in tandem with these assets will be considered "Unofficial", unless otherwise endorsed, endorsed assets are deemed "Official".
-  - These assets are free for public use, but are still subject to terms at the discretion of the IP holders.
-  - Any project that is a "split", "deviation" or "fork" of any deemed "Official" content must include this license within its repository, or a link to this license.
-  - Any assets deemed "Official" may not be used for AI training models, including, but not limited to, visual, and written generated content.
+Assuming a "direct copy", proper attribution or a link to a copy of this license is required.
 
+#
+Commercial-Use
+##
+Media may be commercialized / used to make profit assuming that the proper attribution and distribution rules are followed in accordance to this license.
+  
+- "Media" includes but is not limited to games, websites, posters, journals, printables, renders, digital content, and physical content.
+  
+#
+Distribution
+##
+Assuming a digital work that uses art, code, or assets from this project, a copy of this license must be created, and shared with said assets during distribution.
+  
+- "Digital Work" includes but is not limited to games, websites, programs, and other similar media.
 
-If you do not agree to these terms, then please leave this site, and discontinue use of the Cubiix platform as a whole.
-Including but not limited to "Official" and "Unofficial" content alike. As we would like to protect the creators within our community.
+This includes but is not limited to:
+- Programs have a direct link visible in a "licenses" section
+- Websites have a direct link visible on the page of an executable
+- Games have a direct link visible in-game in a "credits" section
+#
+Software Notice
+##
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  
